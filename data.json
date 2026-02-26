@@ -1,0 +1,42 @@
+[
+    {
+        "id": "69a072e46bb6e",
+        "nome": "lucas",
+        "cpf": "3874156",
+        "rg": "81237451",
+        "cep": "75000000",
+        "logradouro": "Rua 3",
+        "complemento": "Casa 1",
+        "setor": "Centro",
+        "cidade": "Goiania",
+        "uf": "GO",
+        "telefones": [
+            {
+                "telefone": "62991913242",
+                "descricao": "Celular"
+            }
+        ]
+    },
+    {
+        "id": "69a07317a49f8",
+        "nome": "Joao",
+        "cpf": "12345678913",
+        "rg": "891234563",
+        "cep": "75123321",
+        "logradouro": "Rua 2",
+        "complemento": "",
+        "setor": "Goias",
+        "cidade": "Goiania",
+        "uf": "GO",
+        "telefones": [
+            {
+                "telefone": "6231217071",
+                "descricao": "fixo"
+            },
+            {
+                "telefone": "62971725631",
+                "descricao": "Celular"
+            }
+        ]
+    }
+]
